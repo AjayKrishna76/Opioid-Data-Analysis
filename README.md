@@ -79,6 +79,8 @@ In this stage the data for modelling and comparitive analysis is developed. Here
 Developing a simple interactive dashboard. Utilizing [plotly](https://plotly.com/) along with the [Dash](https://plotly.com/dash/) as a framework.
 - All the above performed tasks were shown in a single dashboard. Here the data is presented visually in the United States map and the data table is also shown which contains the data on the specific selection with respect to different state level data as well as the whole data of US.
 
+![Dashboard](https://github.com/AjayKrishna76/Opioid-Data-Analysis/blob/main/images/ajay/stage_4/2.png)
+
 ### Project Setup:
 ***
 1. Clone the repository - Clone the repository by pasting this [link](https://github.com/AjayKrishna76/Opioid-Data-Analysis) in your favorite terminal.
